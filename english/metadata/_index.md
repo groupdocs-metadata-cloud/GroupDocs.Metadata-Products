@@ -27,7 +27,7 @@ apis:
           img_alt: "GroupDocs.Metadata Cloud for cURL"
           image: "/sdk/272x272/groupdocs_metadata-for-curl.webp"
           product: "GroupDocs.Metadata"
-          platform: "Cloud for cURL"
+          platform: "cURL"
           content: "Work with cURL RESTful metadata manipulation APIs to manage metadata information of PDF, Word, Excel, Presentations, images and multimedia file in your applications."
 
         # api_product loop

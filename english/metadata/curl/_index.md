@@ -27,7 +27,7 @@ submenu:
         img_alt: "GroupDocs.Metadata Cloud for cURL"
         image: "/sdk/272x272/groupdocs_metadata-for-curl.webp"
         product: "GroupDocs.Metadata"
-        platform: "Cloud cURL"
+        platform: "cURL"
 
     middle:
         button:
@@ -66,7 +66,7 @@ overview:
       ## TAB ONE ##
       tab_one:
         description: |
-          Following is an overview of GroupDocs.Metadata Cloud for cURL:
+          Following is an overview of GroupDocs.Metadata Cloud:
 
         left:
           enable: true
@@ -84,12 +84,12 @@ overview:
           icon: "fab fa-html5"
           title: "Working with Audio, Video & Other Formats"
           content: |
-            * Manipulate Metadata of Multimedia File Types
+            * Manipulate Metadata
             * Read/Update Metadata
             * Read Image Files Metatadata
             * Extract Metadata of Image Files
-            * Replace Metadata of ZIP Archive Files
-            * Manipulate Metadata OpenType Fonts
+            * Replace Metadata of ZIP Archives
+            * Manipulate OpenType Fonts
             * Read vCard File Types
       
       ## TAB TWO ##
@@ -233,15 +233,7 @@ features:
                 }
             }"
           ```
-      # more_feature_loop
-      - title: "Retrieve Hidden Data for Manipulation"
-        content: |
-          GroupDocs.Metadata for Java provides you a comprehensive way to get and delete hidden data from Microsoft Word, Excel and PowerPoint files. You can also do the same for PDF documents. Following list elaborates the sort of metadata you can access and manipulate through GroupDocs.Metadata for Java:  
-
-          * Microsoft Word (Comments, Hidden Text, Merge Fields)
-          * Microsoft Excel (Comments, Hidden Sheets)
-          * Microsoft PowerPoint (Comments, Hidden Slides)
-          * PDF Documents (Attachments, Annotations, Bookmarks, Form Fields)
+      
 
 ############################# Support ############################
 support:
@@ -262,14 +254,14 @@ solutions:
 
         # solution loop
         - img_alt: "GroupDocs.Metadata for .NET"
-          image: "https://www.groupdocs.cloud/templates/groupdocs/images/product-logos/groupdocs-metadata-net.webp"
+          image: "/sdk/272x272/groupdocs_metadata-for-net.webp"
           product: "GroupDocs.Metadata"
           platform: ".NET"
           link: "/metadata/net/"
 
         # solution loop
         - img_alt: "GroupDocs.Metadata for Java"
-          image: "https://www.groupdocs.cloud/templates/groupdocs/images/product-logos/groupdocs-metadata-java.webp"
+          image: "/sdk/272x272/groupdocs_metadata-for-java.webp"
           product: "GroupDocs.Metadata"
           platform: "Java"
           link: "/metadata/java/"
