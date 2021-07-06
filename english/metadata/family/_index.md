@@ -9,7 +9,7 @@ head_title: "Document Metadata Manipulation Cloud SDKs and REST APIs"
 head_description: "Perform metadata operations on documents, images, multimedia and image file formats using cURL Commands and Cloud SDKs for .NET and Java."
 
 ############################# Header ############################
-title: "Metadata Management REST API & SDKs"
+title: "Metadata Management REST APIs & SDKs"
 description: "Perform metadata manipulation operations on documents, images and other popular file formats using cURL commands or independent SDKs for .NET and Java platforms"
 
 ############################# APIs ###############################
