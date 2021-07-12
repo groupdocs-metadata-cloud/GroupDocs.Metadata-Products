@@ -41,7 +41,7 @@ submenu:
 
 
             # button loop
-            - link: "https://docs.groupdocs.cloud/metadatacloud/release-notes/"
+            - link: "https://docs.groupdocs.cloud/metadata/release-notes/"
               text: "Release Notes"
 
             # button loop
@@ -50,7 +50,7 @@ submenu:
 
     right:
         link_download: "https://groupdocscloud.github.io/"
-        link_learn: "https://docs.groupdocs.cloud/metadatacloud/"
+        link_learn: "https://docs.groupdocs.cloud/metadata/"
         link_buy: "https://purchase.groupdocs.cloud/buy"
 
 ############################# Overview ############################
