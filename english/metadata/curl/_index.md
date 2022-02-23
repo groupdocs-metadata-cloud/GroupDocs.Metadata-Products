@@ -15,7 +15,7 @@ head_description: "Manipulate metadata properties from PDF, Word, Excel, Present
 
 ############################# Header ############################
 title: "Document Metadata Management using cURL"
-description: "Manipulate metadata properties from PDF, Word, Excel, Presentations, multimedia, images and metafiles using Cloud REST API.‎"
+description: "Manipulate metadata properties from PDF, Word, Excel, Presentations, multimedia, images and metafiles using Cloud REST API."
 button:
     enable: true
 
@@ -105,7 +105,7 @@ overview:
               content: |
                 * **Word:** DOC, DOCX, DOT, DOTX, DOCM
                 * **Excel:**  XLS, XLSX, XLSM, XLTM
-                * **PowerPoint:** PPT, PPTX, POTM, POTX, PPTM, PPS, PPSX‎, PPSM‎
+                * **PowerPoint:** PPT, PPTX, POTM, POTX, PPTM, PPS, PPSX, PPSM
                 * **Outlook:** MSG, EML
                 * **OneNote:** ONE
                 * **Visio:** VSD, VDX, VSDX, VSS, VSX
@@ -124,9 +124,9 @@ overview:
                 * **Audio**: MP3, WAV
                 * **Video**: AVI, MOV, QT, FLV
                 * **Metafiles**: EMF, WMF
-                * **vCard**: VCF‎, VCR
-                * **Image**: JPG, JPEG, JPE, JP2, PNG, GIF, TIFF, WebP, BMP, DJVU, DJV, DICOM‎  
-                * **OpenType Fonts**: OTF, OTC, TTF, TTC‎
+                * **vCard**: VCF, VCR
+                * **Image**: JPG, JPEG, JPE, JP2, PNG, GIF, TIFF, WebP, BMP, DJVU, DJV, DICOM  
+                * **OpenType Fonts**: OTF, OTC, TTF, TTC
                 * **Others**: EPUB, ZIP, TORRENT, ASF
 
       ## TAB THREE ##
